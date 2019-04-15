@@ -16,4 +16,7 @@
     public int MD2(int d1, int d2){
       return d1 - d2;
     }
+   public void MD4(){
+System.out.println(MD4");
+   }
 } 
